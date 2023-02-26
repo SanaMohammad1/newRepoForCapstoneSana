@@ -1,0 +1,9 @@
+test\tek\sdet\framework\pages\TestPOMFactory.class
+test\tek\sdet\framework\pages\TestRetailAccountPage.class
+test\tek\sdet\framework\pages\TestRetailSignInPage.class
+test\tek\sdet\framework\runner\TestTestRunner.class
+test\tek\sdet\framework\pages\TestRetailHomePage.class
+test\tek\sdet\framework\steps\TestRetailAccountSteps.class
+test\tek\sdet\framework\base\TestBaseUITest.class
+test\tek\sdet\framework\steps\TestRetailSteps.class
+test\tek\sdet\framework\steps\TestSignInPage.class

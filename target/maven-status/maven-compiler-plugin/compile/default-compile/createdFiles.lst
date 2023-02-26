@@ -1,0 +1,11 @@
+test\tek\sdet\framework\config\TestSafariBrowser.class
+test\tek\sdet\framework\config\TestChromeBrowser.class
+test\tek\sdet\framework\config\TestChromeHeadless.class
+test\tek\sdet\framework\config\TestBrowser.class
+test\tek\sdet\framework\config\TestEdgeBrowser.class
+test\tek\sdet\framework\config\TestFireFoxBrowser.class
+test\tek\sdet\framework\utilities\TestFileUtility.class
+test\tek\sdet\framework\utilities\TestReadYamlFiles.class
+test\tek\sdet\framework\base\TestBaseSetup.class
+test\tek\sdet\framework\config\TestOperaBrowser.class
+test\tek\sdet\framework\utilities\TestCommonUtility.class
